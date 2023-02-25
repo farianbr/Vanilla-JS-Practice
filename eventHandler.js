@@ -43,7 +43,7 @@ clear.addEventListener("click", function (e) {
 });
 
 let i = 0
-const colorList = ['red','blue','white','purple','cyan']
+const colorList = ['red','magenta','white','purple','cyan']
 
 changeBgColor.addEventListener("click", function (e) {
   e.preventDefault();
