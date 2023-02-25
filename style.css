@@ -1,42 +1,37 @@
-h1{
-    text-align: center;
-    color: #322aa5;
-
+h1 {
+  text-align: center;
+  color: #322aa5;
 }
-.btn{
-    background-color:beige;
-    margin-left: 25%;
-    margin-right: 25%;
-    padding: 2%;
-}
-
-.n{
-    margin-bottom: 10px;
+.btn {
+  background-color: beige;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 2%;
 }
 
-.fields{
-    margin: 0 auto;
+.n {
+  margin-bottom: 10px;
 }
 
-.button{
-    margin-top: 20px;
-    
+.fields {
+  margin: 0 auto;
 }
 
-.data{
-    margin-left: 25%;
-    margin-right: 25%;
-   
+.button {
+  margin-top: 20px;
 }
 
-ul{
-    list-style:none ;
-    
-    padding-inline-start: 4%;
-    background-color: antiquewhite;
-    
+.data {
+  margin-left: 25%;
+  margin-right: 25%;
 }
-li{
-    margin: 10px;
 
+ul {
+  list-style: none;
+
+  padding-inline-start: 4%;
+  background-color: antiquewhite;
+}
+li {
+  margin: 10px;
 }
