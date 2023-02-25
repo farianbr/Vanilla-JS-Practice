@@ -15,6 +15,9 @@ nameInput.addEventListener('keyup', function(){
 
     if(nameInput.value != '' && emailInput.value != ''){
         button.removeAttribute('disabled')
+
+
+        uygt7frtf
     }  
 })
 
